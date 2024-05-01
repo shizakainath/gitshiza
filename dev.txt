@@ -1,0 +1,15 @@
+Visual Studio Code:
+    - open a folder
+    - terminal panel
+        - shells
+    - run js file on terminal
+    - debug terminal
+node modules:
+    local-module = > js files, export, used own project
+    core-modules => the modules are provided in nodejs
+                -- fs, http, path, process, ..
+        -- fs -> save, read files..
+            -- callback inline
+    third-party modules => outside packages
+        -- cloud -> package repo / node / own-repo
+        -- publish
